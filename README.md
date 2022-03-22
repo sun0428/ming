@@ -1,4 +1,4 @@
 # ming
-experimental operation system\
+an experimental operation system\
 mainly based on c\
-welcome to join us
+welcome to join us!
